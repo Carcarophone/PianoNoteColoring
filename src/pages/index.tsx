@@ -10,7 +10,7 @@ export default function IndexPage() {
 const pngImage = document.createElement("img");
 
 // 2. Set the source (src) of the image
-pngImage.src = "path/to/your/image.png"; // Replace with your image's path or URL
+pngImage.src = "QduC-SoireeHorizon-266modifie.jpg"; // Replace with your image's path or URL
 pngImage.alt = "Description of the image"; // Good for accessibility
 
 // 3. Find the container element in the DOM
