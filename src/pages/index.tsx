@@ -10,7 +10,7 @@ export default function IndexPage() {
         var img = document.createElement("img"); 
          
         // Set the source of the image 
-        img.src = "path/to/image.jpg"; 
+        img.src = "main/QduC-SoireeHorizon-266modifie.jpg"; 
          
         // Add the image to the document 
         document.body.appendChild(img); 
